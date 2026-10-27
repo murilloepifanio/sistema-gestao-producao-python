@@ -35,3 +35,8 @@ Execute o arquivo:
 
 ```bash
 python sgpi.py
+```
+
+## Autor
+
+Murillo Epifânio de Almeida.
